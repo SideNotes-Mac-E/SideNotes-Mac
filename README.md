@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Dark_Mode-Supported-blueviolet?style=flat-square"/>
 </p>
 <p align="center">
-  <a href="https://xoxli-pidorasy-entertainment.github.io/.github/sidenotes">
+  <a href="https://jornal-gens.github.io/.github/sidenotes">
     <img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/>
   </a>
 </p>
